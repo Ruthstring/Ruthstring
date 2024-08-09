@@ -18,7 +18,7 @@
 
  <h2 > About me </h2>
  
-- 🌱 I’ve finished a full-stack Web and App Developer Bootcamp **at WBS Coding School**
+- 🌱 I’ve finished a Full-stack Web and App Development Bootcamp **at WBS Coding School**
 - 🔭 I keep working. Learning and exploring. 
 - 🤝 I’m currently looking for a job position 
 </div>
