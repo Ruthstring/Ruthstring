@@ -3,10 +3,10 @@
 <h3 align="center">A Junior Full-Stack web developer loving this learning journey</h3>
 
 <div align="center" > 
-  <a href="ruthcllp@gmail.com">
+  <a href="mailto:ruthcllp@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="www.linkedin.com/in/ruth-cuéllar" target="_blank">
+  <a href="r" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a> <span></span>
  <!-- <a href="www.linkedin.com/in/ruth-cuéllar" target="_blank">
@@ -18,9 +18,9 @@
 
  <h2 > About me </h2>
  
-- 🌱 I’m currently learning **at WBS Coding School**
-- 🔭 Exploring now **Back-end and Databases**
-- 🤝 I’m looking for **a Junior position** 
+- 🌱 I’ve finished a full-stack Web and App Developer Bootcamp **at WBS Coding School**
+- 🔭 I keep working. Learning and exploring. 
+- 🤝 I’m currently looking for a job position 
 </div>
 <br>
 
